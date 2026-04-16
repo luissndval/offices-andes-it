@@ -1,3 +1,6 @@
+# Environment
+.env
+.env.local
 
-# Scrum Agent Pack (local, no commitear)
-.claude/
+# Node
+node_modules/
