@@ -4,3 +4,14 @@
 
 # Node
 node_modules/
+
+# Builds
+frontend/.next/
+frontend/out/
+backend/dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+pnpm-debug.log*
+
