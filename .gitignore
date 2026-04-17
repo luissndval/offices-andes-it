@@ -4,3 +4,13 @@
 
 # Node
 node_modules/
+
+# Builds
+frontend/.next/
+frontend/out/
+backend/dist/
+
+# Logs
+*.log
+pnpm-debug.log*
+
